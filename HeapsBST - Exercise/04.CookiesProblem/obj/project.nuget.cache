@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdKR5eOviH1cf7kX+7Uml0G6OMeMKVFHs0XMIwBTsFjBgMQz0R+X4YLLlMRVe32NdVWCHeIdfuhs2YECcuqhww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saturn\\source\\repos\\C#DataStructuresFundamentals\\HeapsBST - Exercise\\04.CookiesProblem\\04.CookiesProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saturn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saturn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

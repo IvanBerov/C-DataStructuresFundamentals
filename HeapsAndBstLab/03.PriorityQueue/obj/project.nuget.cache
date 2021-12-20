@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VlKUHRVWX+ciiR3AmSMnOAnWYGyQ01H/Kehw/TynPx6/dP2tGxOX7kHy+LVw+UoC2ynHIt7odDff29tKmsaqsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saturn\\OneDrive\\Documents\\C#DataStructuresFundamentals\\HeapsAndBstLab\\03.PriorityQueue\\03.PriorityQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saturn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saturn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

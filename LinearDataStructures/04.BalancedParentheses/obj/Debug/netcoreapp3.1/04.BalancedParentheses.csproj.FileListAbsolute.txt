@@ -1,0 +1,9 @@
+C:\Users\saturn\source\repos\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.deps.json
+C:\Users\saturn\source\repos\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+C:\Users\saturn\source\repos\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.pdb
+C:\Users\saturn\source\repos\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfo.cs
+C:\Users\saturn\source\repos\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+C:\Users\saturn\source\repos\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.pdb

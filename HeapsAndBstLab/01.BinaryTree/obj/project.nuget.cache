@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DHwQOvQSF+yXQ7RqlkzuYx6Bs6raqXpJGNJXr3Xu5KR6Xs24DsMOhUmW2u+KEbODFji1eyk1tj9FqLF1qyblXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saturn\\OneDrive\\Documents\\C#DataStructuresFundamentals\\HeapsAndBstLab\\01.BinaryTree\\01.BinaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saturn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saturn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

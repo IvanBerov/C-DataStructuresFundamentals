@@ -1,0 +1,9 @@
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.deps.json
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.dll
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.pdb
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.AssemblyInfo.cs
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.dll
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.pdb

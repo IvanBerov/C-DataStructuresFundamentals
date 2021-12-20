@@ -1,0 +1,9 @@
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExamPrep22July\02.Data\bin\Debug\netstandard2.0\02.Data.deps.json
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExamPrep22July\02.Data\bin\Debug\netstandard2.0\02.Data.dll
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExamPrep22July\02.Data\bin\Debug\netstandard2.0\02.Data.pdb
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExamPrep22July\02.Data\obj\Debug\netstandard2.0\02.Data.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExamPrep22July\02.Data\obj\Debug\netstandard2.0\02.Data.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExamPrep22July\02.Data\obj\Debug\netstandard2.0\02.Data.AssemblyInfo.cs
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExamPrep22July\02.Data\obj\Debug\netstandard2.0\02.Data.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExamPrep22July\02.Data\obj\Debug\netstandard2.0\02.Data.dll
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExamPrep22July\02.Data\obj\Debug\netstandard2.0\02.Data.pdb

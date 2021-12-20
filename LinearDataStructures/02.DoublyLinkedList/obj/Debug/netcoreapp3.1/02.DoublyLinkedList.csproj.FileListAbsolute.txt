@@ -1,0 +1,9 @@
+C:\Users\saturn\source\repos\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.deps.json
+C:\Users\saturn\source\repos\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+C:\Users\saturn\source\repos\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb
+C:\Users\saturn\source\repos\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfo.cs
+C:\Users\saturn\source\repos\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+C:\Users\saturn\source\repos\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb

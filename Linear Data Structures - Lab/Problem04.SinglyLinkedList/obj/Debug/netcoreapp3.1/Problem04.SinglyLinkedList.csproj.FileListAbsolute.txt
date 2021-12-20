@@ -1,0 +1,18 @@
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.deps.json
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.pdb
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.csprojAssemblyReference.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfo.cs
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.pdb
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.deps.json
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.pdb
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.csprojAssemblyReference.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfo.cs
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ns/7Fv8VxW27NSGllZhL94CCCoIUN3mYou05Vj5x9w8hK+akrgpmA4HhSyM87pG1oBqRCA2Yc+/qkhY79bW9Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saturn\\source\\repos\\C#DataStructuresFundamentals\\HeapsBST - Exercise\\02.LowestCommonAncestor\\02.LowestCommonAncestor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saturn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saturn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

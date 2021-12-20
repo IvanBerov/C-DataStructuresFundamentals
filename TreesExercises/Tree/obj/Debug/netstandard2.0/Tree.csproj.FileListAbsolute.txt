@@ -1,0 +1,9 @@
+C:\Users\saturn\source\repos\TreesExercises\Tree\bin\Debug\netstandard2.0\Tree.deps.json
+C:\Users\saturn\source\repos\TreesExercises\Tree\bin\Debug\netstandard2.0\Tree.dll
+C:\Users\saturn\source\repos\TreesExercises\Tree\bin\Debug\netstandard2.0\Tree.pdb
+C:\Users\saturn\source\repos\TreesExercises\Tree\obj\Debug\netstandard2.0\Tree.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\TreesExercises\Tree\obj\Debug\netstandard2.0\Tree.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\TreesExercises\Tree\obj\Debug\netstandard2.0\Tree.AssemblyInfo.cs
+C:\Users\saturn\source\repos\TreesExercises\Tree\obj\Debug\netstandard2.0\Tree.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\TreesExercises\Tree\obj\Debug\netstandard2.0\Tree.dll
+C:\Users\saturn\source\repos\TreesExercises\Tree\obj\Debug\netstandard2.0\Tree.pdb

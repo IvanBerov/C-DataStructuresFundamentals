@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\bin\Debug\netcoreapp3.1\HeshsetComplex.exe
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\bin\Debug\netcoreapp3.1\HeshsetComplex.deps.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\bin\Debug\netcoreapp3.1\HeshsetComplex.runtimeconfig.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\bin\Debug\netcoreapp3.1\HeshsetComplex.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\bin\Debug\netcoreapp3.1\HeshsetComplex.dll
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\bin\Debug\netcoreapp3.1\HeshsetComplex.pdb
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\obj\Debug\netcoreapp3.1\HeshsetComplex.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\obj\Debug\netcoreapp3.1\HeshsetComplex.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\obj\Debug\netcoreapp3.1\HeshsetComplex.AssemblyInfo.cs
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\obj\Debug\netcoreapp3.1\HeshsetComplex.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\obj\Debug\netcoreapp3.1\HeshsetComplex.dll
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\obj\Debug\netcoreapp3.1\HeshsetComplex.pdb
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\HeshsetComplex\obj\Debug\netcoreapp3.1\HeshsetComplex.genruntimeconfig.cache

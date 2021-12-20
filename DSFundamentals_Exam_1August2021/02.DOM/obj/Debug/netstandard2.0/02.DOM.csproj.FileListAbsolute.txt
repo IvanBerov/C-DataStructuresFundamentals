@@ -1,0 +1,9 @@
+C:\Users\saturn\OneDrive\Documents\DSFundamentals_Exam_1August2021\02.DOM\bin\Debug\netstandard2.0\02.DOM.deps.json
+C:\Users\saturn\OneDrive\Documents\DSFundamentals_Exam_1August2021\02.DOM\bin\Debug\netstandard2.0\02.DOM.dll
+C:\Users\saturn\OneDrive\Documents\DSFundamentals_Exam_1August2021\02.DOM\bin\Debug\netstandard2.0\02.DOM.pdb
+C:\Users\saturn\OneDrive\Documents\DSFundamentals_Exam_1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.csprojAssemblyReference.cache
+C:\Users\saturn\OneDrive\Documents\DSFundamentals_Exam_1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.AssemblyInfoInputs.cache
+C:\Users\saturn\OneDrive\Documents\DSFundamentals_Exam_1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.AssemblyInfo.cs
+C:\Users\saturn\OneDrive\Documents\DSFundamentals_Exam_1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.csproj.CoreCompileInputs.cache
+C:\Users\saturn\OneDrive\Documents\DSFundamentals_Exam_1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.dll
+C:\Users\saturn\OneDrive\Documents\DSFundamentals_Exam_1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.pdb

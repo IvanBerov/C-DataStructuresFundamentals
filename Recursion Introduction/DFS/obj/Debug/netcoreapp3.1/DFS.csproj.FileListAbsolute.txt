@@ -1,0 +1,4 @@
+C:\Users\saturn\source\repos\Recursion Introduction\DFS\obj\Debug\netcoreapp3.1\DFS.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Recursion Introduction\DFS\obj\Debug\netcoreapp3.1\DFS.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Recursion Introduction\DFS\obj\Debug\netcoreapp3.1\DFS.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Recursion Introduction\DFS\obj\Debug\netcoreapp3.1\DFS.csproj.CoreCompileInputs.cache

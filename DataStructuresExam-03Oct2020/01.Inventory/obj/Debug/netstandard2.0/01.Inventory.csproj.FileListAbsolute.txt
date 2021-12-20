@@ -1,0 +1,9 @@
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.deps.json
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.dll
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.pdb
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfo.cs
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.dll
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.pdb

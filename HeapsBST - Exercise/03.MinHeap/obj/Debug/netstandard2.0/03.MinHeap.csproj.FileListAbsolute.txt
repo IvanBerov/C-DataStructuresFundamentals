@@ -1,0 +1,9 @@
+C:\Users\saturn\source\repos\HeapsBST - Exercise\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.deps.json
+C:\Users\saturn\source\repos\HeapsBST - Exercise\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.dll
+C:\Users\saturn\source\repos\HeapsBST - Exercise\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.pdb
+C:\Users\saturn\source\repos\HeapsBST - Exercise\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.AssemblyInfo.cs
+C:\Users\saturn\source\repos\HeapsBST - Exercise\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.dll
+C:\Users\saturn\source\repos\HeapsBST - Exercise\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.pdb

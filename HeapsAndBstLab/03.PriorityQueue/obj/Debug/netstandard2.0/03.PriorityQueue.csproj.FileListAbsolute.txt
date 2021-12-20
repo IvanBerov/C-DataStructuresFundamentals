@@ -1,0 +1,9 @@
+C:\Users\saturn\source\repos\HeapsAndBstLab\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.deps.json
+C:\Users\saturn\source\repos\HeapsAndBstLab\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.dll
+C:\Users\saturn\source\repos\HeapsAndBstLab\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.pdb
+C:\Users\saturn\source\repos\HeapsAndBstLab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\HeapsAndBstLab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\HeapsAndBstLab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.AssemblyInfo.cs
+C:\Users\saturn\source\repos\HeapsAndBstLab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\HeapsAndBstLab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.dll
+C:\Users\saturn\source\repos\HeapsAndBstLab\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.pdb

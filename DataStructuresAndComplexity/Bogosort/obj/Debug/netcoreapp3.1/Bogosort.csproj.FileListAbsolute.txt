@@ -1,0 +1,12 @@
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\bin\Debug\netcoreapp3.1\Bogosort.exe
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\bin\Debug\netcoreapp3.1\Bogosort.deps.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\bin\Debug\netcoreapp3.1\Bogosort.runtimeconfig.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\bin\Debug\netcoreapp3.1\Bogosort.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\bin\Debug\netcoreapp3.1\Bogosort.dll
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\bin\Debug\netcoreapp3.1\Bogosort.pdb
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\obj\Debug\netcoreapp3.1\Bogosort.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\obj\Debug\netcoreapp3.1\Bogosort.AssemblyInfo.cs
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\obj\Debug\netcoreapp3.1\Bogosort.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\obj\Debug\netcoreapp3.1\Bogosort.dll
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\obj\Debug\netcoreapp3.1\Bogosort.pdb
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Bogosort\obj\Debug\netcoreapp3.1\Bogosort.genruntimeconfig.cache

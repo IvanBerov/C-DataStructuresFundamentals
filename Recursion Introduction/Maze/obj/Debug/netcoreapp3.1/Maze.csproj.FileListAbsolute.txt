@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\bin\Debug\netcoreapp3.1\Maze.exe
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\bin\Debug\netcoreapp3.1\Maze.deps.json
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\bin\Debug\netcoreapp3.1\Maze.runtimeconfig.json
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\bin\Debug\netcoreapp3.1\Maze.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\bin\Debug\netcoreapp3.1\Maze.dll
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\bin\Debug\netcoreapp3.1\Maze.pdb
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\obj\Debug\netcoreapp3.1\Maze.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\obj\Debug\netcoreapp3.1\Maze.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\obj\Debug\netcoreapp3.1\Maze.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\obj\Debug\netcoreapp3.1\Maze.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\obj\Debug\netcoreapp3.1\Maze.dll
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\obj\Debug\netcoreapp3.1\Maze.pdb
+C:\Users\saturn\source\repos\Recursion Introduction\Maze\obj\Debug\netcoreapp3.1\Maze.genruntimeconfig.cache

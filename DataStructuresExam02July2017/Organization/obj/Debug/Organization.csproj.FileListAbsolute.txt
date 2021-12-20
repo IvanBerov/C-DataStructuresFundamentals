@@ -1,0 +1,10 @@
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam02July2017\Organization\bin\Debug\Organization.exe.config
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam02July2017\Organization\bin\Debug\Organization.exe
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam02July2017\Organization\bin\Debug\Organization.pdb
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam02July2017\Organization\bin\Debug\PowerCollections.dll
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam02July2017\Organization\bin\Debug\PowerCollections.xml
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam02July2017\Organization\obj\Debug\Organization.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam02July2017\Organization\obj\Debug\Organization.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam02July2017\Organization\obj\Debug\Organization.csproj.CopyComplete
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam02July2017\Organization\obj\Debug\Organization.exe
+C:\Users\saturn\source\repos\HeapsBST - Exercise\DataStructuresExam02July2017\Organization\obj\Debug\Organization.pdb

@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Users\saturn\source\repos\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache

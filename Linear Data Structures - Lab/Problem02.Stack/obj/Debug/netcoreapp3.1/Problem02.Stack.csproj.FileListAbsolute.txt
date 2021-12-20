@@ -1,0 +1,18 @@
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.deps.json
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.dll
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.pdb
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.csprojAssemblyReference.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfoInputs.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfo.cs
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.csproj.CoreCompileInputs.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.dll
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.pdb
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.deps.json
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.dll
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.pdb
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.csprojAssemblyReference.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfoInputs.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfo.cs
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.csproj.CoreCompileInputs.cache
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.dll
+C:\Users\saturn\OneDrive\Desktop\C#_DataStructuresFundamentals\Linear Data Structures - Lab\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.pdb

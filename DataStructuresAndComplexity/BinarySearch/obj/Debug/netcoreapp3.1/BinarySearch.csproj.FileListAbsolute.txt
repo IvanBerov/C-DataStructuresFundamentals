@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache

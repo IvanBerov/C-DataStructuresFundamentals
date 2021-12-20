@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\bin\Debug\netcoreapp3.1\QuicksortCompetition.exe
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\bin\Debug\netcoreapp3.1\QuicksortCompetition.deps.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\bin\Debug\netcoreapp3.1\QuicksortCompetition.runtimeconfig.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\bin\Debug\netcoreapp3.1\QuicksortCompetition.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\bin\Debug\netcoreapp3.1\QuicksortCompetition.dll
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\bin\Debug\netcoreapp3.1\QuicksortCompetition.pdb
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\obj\Debug\netcoreapp3.1\QuicksortCompetition.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\obj\Debug\netcoreapp3.1\QuicksortCompetition.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\obj\Debug\netcoreapp3.1\QuicksortCompetition.AssemblyInfo.cs
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\obj\Debug\netcoreapp3.1\QuicksortCompetition.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\obj\Debug\netcoreapp3.1\QuicksortCompetition.dll
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\obj\Debug\netcoreapp3.1\QuicksortCompetition.pdb
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\QuicksortCompetition\obj\Debug\netcoreapp3.1\QuicksortCompetition.genruntimeconfig.cache

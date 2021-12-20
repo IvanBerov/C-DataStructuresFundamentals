@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+XQtp+7q0lXBfmd1a+ElbkfUUzypkqReOcF3HbTt+r/pwDQBDX9NttZuQjhpu1cbZO4pCEsV6wCRCdObmZvNwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saturn\\OneDrive\\Documents\\DSFundamentals_Exam_1August2021\\02.DOM\\02.DOM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saturn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saturn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

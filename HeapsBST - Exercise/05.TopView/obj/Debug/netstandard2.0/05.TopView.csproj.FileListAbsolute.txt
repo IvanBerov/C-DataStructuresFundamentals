@@ -1,0 +1,9 @@
+C:\Users\saturn\source\repos\HeapsBST - Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.deps.json
+C:\Users\saturn\source\repos\HeapsBST - Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.dll
+C:\Users\saturn\source\repos\HeapsBST - Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.pdb
+C:\Users\saturn\source\repos\HeapsBST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfo.cs
+C:\Users\saturn\source\repos\HeapsBST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\HeapsBST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.dll
+C:\Users\saturn\source\repos\HeapsBST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.pdb

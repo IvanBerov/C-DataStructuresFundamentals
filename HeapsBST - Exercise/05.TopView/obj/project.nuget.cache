@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5rxSlXpn1L4AaU7cU1XLg2Gj9SOTr3k/yA0YzfV4y8o6xIO7CU0Du+4Y8rk2iJkOzchIGnrCJeekNk0E8l9xCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saturn\\source\\repos\\C#DataStructuresFundamentals\\HeapsBST - Exercise\\05.TopView\\05.TopView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saturn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saturn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

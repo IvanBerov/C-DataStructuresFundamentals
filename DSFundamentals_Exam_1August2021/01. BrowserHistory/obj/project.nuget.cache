@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+D5uB/LnGw0y/vROl3FdzdKHT6qhjwbwec6HBCrh9XaEId1KZaPHdomUK7Vc6O+KUaFAM9aJBA434RgApPEgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saturn\\OneDrive\\Documents\\DSFundamentals_Exam_1August2021\\01. BrowserHistory\\01. BrowserHistory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saturn\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saturn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

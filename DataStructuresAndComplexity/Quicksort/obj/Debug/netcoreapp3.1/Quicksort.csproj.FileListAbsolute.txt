@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\bin\Debug\netcoreapp3.1\Quicksort.exe
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\bin\Debug\netcoreapp3.1\Quicksort.deps.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\bin\Debug\netcoreapp3.1\Quicksort.runtimeconfig.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\bin\Debug\netcoreapp3.1\Quicksort.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\bin\Debug\netcoreapp3.1\Quicksort.dll
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\bin\Debug\netcoreapp3.1\Quicksort.pdb
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\obj\Debug\netcoreapp3.1\Quicksort.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\obj\Debug\netcoreapp3.1\Quicksort.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\obj\Debug\netcoreapp3.1\Quicksort.AssemblyInfo.cs
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\obj\Debug\netcoreapp3.1\Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\obj\Debug\netcoreapp3.1\Quicksort.dll
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\obj\Debug\netcoreapp3.1\Quicksort.pdb
+C:\Users\saturn\source\repos\DataStructuresAndComplexity\Quicksort\obj\Debug\netcoreapp3.1\Quicksort.genruntimeconfig.cache

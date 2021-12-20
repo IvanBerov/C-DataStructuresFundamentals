@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\bin\Debug\netcoreapp3.1\QueensProblem.exe
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\bin\Debug\netcoreapp3.1\QueensProblem.deps.json
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\bin\Debug\netcoreapp3.1\QueensProblem.runtimeconfig.json
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\bin\Debug\netcoreapp3.1\QueensProblem.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\bin\Debug\netcoreapp3.1\QueensProblem.dll
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\bin\Debug\netcoreapp3.1\QueensProblem.pdb
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\obj\Debug\netcoreapp3.1\QueensProblem.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\obj\Debug\netcoreapp3.1\QueensProblem.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\obj\Debug\netcoreapp3.1\QueensProblem.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\obj\Debug\netcoreapp3.1\QueensProblem.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\obj\Debug\netcoreapp3.1\QueensProblem.dll
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\obj\Debug\netcoreapp3.1\QueensProblem.pdb
+C:\Users\saturn\source\repos\Recursion Introduction\QueensProblem\obj\Debug\netcoreapp3.1\QueensProblem.genruntimeconfig.cache
