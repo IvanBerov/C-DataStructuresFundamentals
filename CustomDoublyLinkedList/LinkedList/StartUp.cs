@@ -6,18 +6,6 @@ namespace LinkedList
     {
         static void Main(string[] args)
         {
-            //DoublyLinkedList<int> doublyLinkedList = new DoublyLinkedList<int>();
-
-            //for (int i = 1; i <= 3; i++)
-            //{
-            //    doublyLinkedList.AddLast(i);
-            //}
-
-            //for (int i = 1; i <= 4; i++)
-            //{
-            //    doublyLinkedList.RemoveLast();
-            //}
-
             DoublyLinkedList<string> doublyLinkedList = new DoublyLinkedList<string>();
 
             for (int i = 1; i <= 10; i++)
