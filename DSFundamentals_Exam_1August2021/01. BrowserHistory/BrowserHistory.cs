@@ -120,7 +120,8 @@
 
             for (int i = this.Size - 1; i >= 0; i--)
             {
-                string asd = this.links[i].ToString();
+                string asd = this.links[i]
+                    .ToString();
 
                 sb.AppendLine(asd);
             }

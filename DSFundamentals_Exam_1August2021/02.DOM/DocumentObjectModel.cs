@@ -173,6 +173,7 @@
             if (!htmlElement.Attributes.ContainsKey(attrKey))
             {
                 htmlElement.Attributes.Add(attrKey, attrValue);
+
                 return true;
             }
 
@@ -186,8 +187,10 @@
             if (htmlElement.Attributes.ContainsKey(attrKey))
             {
                 htmlElement.Attributes.Remove(attrKey);
+
                 return true;
             }
+
             return false;
         }
 
@@ -200,6 +203,7 @@
             while (queue.Count > 0)
             {
                 var currentEl = queue.Dequeue();
+
                 var attributes = currentEl.Attributes;
 
                 if (attributes.ContainsKey("id"))
